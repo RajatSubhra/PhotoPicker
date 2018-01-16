@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="small_corner_radius">4dp</dimen>
+    <dimen name="normal_elevation">8dp</dimen>
+    <dimen name="image_space">4dp</dimen>
+    <dimen name="padding_size_small">3dp</dimen>
+</resources>
