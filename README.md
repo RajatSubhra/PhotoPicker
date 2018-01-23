@@ -9,3 +9,6 @@ A APP where you can search photos and When a user performs  click on an image, i
 
 ## Technology / Library involved ##
 RxJava, Retrofit,  MVP, Daggar, Pallate Library, Glide, Picasso, ButterKnife, RecyclerView, Lottie, CardView etc  
+
+## Note ##
+Please try with your own API key. You have to create a Getty Image API key and replace 'API_KEY' in Constants.java to run the APP. 
