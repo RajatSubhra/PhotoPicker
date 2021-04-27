@@ -1,5 +1,5 @@
 # APP Description #
-A APP where you can search photos and When a user performs  click on an image, it displays image details like image title, image artist, and some similar images.
+APP where you can search photos and When a user performs  click on an image, it displays image details like image title, image artist, and some similar images.
 
 
 <img width="200" src="https://user-images.githubusercontent.com/4134043/35295573-6bcbd292-0047-11e8-8225-4798e4efda29.png">     <img width="200" src="https://user-images.githubusercontent.com/4134043/35295574-6bd65492-0047-11e8-8c69-a1815318df47.png"> 
